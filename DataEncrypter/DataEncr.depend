@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507221921 source:f:\c projects\dataencr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
